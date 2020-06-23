@@ -1,2 +1,2 @@
 # hello-world
-just a hello world repository
+this is the first github project for newberky
